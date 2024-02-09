@@ -21,7 +21,7 @@ AI_Voice is a microservice designed to provide text-to-speech and speech recogni
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/AI_Voice.git
+   git clone https://github.com/overlordLoki/AI_Voice
    ```
 
 2. Install the required dependencies:
