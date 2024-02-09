@@ -35,7 +35,7 @@ AI_Voice is a microservice designed to provide text-to-speech and speech recogni
 1. Run the Flask application:
 
    ```bash
-   python app.py
+   python speak_api.py
    ```
 
    The microservice will be accessible at `http://127.0.0.1:8088/`.
